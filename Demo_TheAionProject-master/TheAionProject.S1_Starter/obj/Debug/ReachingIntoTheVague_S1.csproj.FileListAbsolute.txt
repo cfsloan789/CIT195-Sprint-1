@@ -1,0 +1,6 @@
+G:\CIT 195 .NET Applications\Demo_TheAionProject-master-Evan\Demo_TheAionProject-master\TheAionProject.S1_Starter\bin\Debug\TheAionProject.S1_Starter.exe.config
+G:\CIT 195 .NET Applications\Demo_TheAionProject-master-Evan\Demo_TheAionProject-master\TheAionProject.S1_Starter\bin\Debug\TheAionProject.S1_Starter.exe
+G:\CIT 195 .NET Applications\Demo_TheAionProject-master-Evan\Demo_TheAionProject-master\TheAionProject.S1_Starter\bin\Debug\TheAionProject.S1_Starter.pdb
+G:\CIT 195 .NET Applications\Demo_TheAionProject-master-Evan\Demo_TheAionProject-master\TheAionProject.S1_Starter\obj\Debug\ReachingIntoTheVague_S1.csprojResolveAssemblyReference.cache
+G:\CIT 195 .NET Applications\Demo_TheAionProject-master-Evan\Demo_TheAionProject-master\TheAionProject.S1_Starter\obj\Debug\TheAionProject.S1_Starter.exe
+G:\CIT 195 .NET Applications\Demo_TheAionProject-master-Evan\Demo_TheAionProject-master\TheAionProject.S1_Starter\obj\Debug\TheAionProject.S1_Starter.pdb
